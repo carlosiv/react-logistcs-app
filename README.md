@@ -18,9 +18,10 @@ A practice app for the learnings from Skourse Class
 
 - [Section 1: Setup TypeScript with React + Tailwindcss](#section-1-setup-typescript-with-react-and-tailwindcss)
   - [React + TypeScript Starter Kits + Tailwindcss](#react--typescript-starter-kits--tailwindcss)
-- [Section 2: Stucture](#section-2-getting-started)
+- [Section 2: App Stucture](#section-2-app-structure)
+
   - [Function Components](#function-components)
-  - [Hooks](#hooks)
+
   </details>
 
 # Section 1: Setup TypeScript with React and Tailwindcss
@@ -30,8 +31,10 @@ A practice app for the learnings from Skourse Class
 Local dev setups:
 
 - [Create React App](https://facebook.github.io/create-react-app/docs/adding-typescript): `npx create-react-app name-of-app --template typescript` will create in new folder
-- [Tailwindcss](https://tailwindcss.com/docs/guides/create-react-app):
+- [Tailwindcss](https://tailwindcss.com/docs/guides/create-react-app):Follow guide from Tailwindcss docs
 
-# App Structure
+# Section 2: App Structure
 
-- App structure here
+## Function Components
+
+- Components here
