@@ -2,7 +2,7 @@
 <h1>React Logistics App</h1>
 </div>
 
-# React Logistics App Description
+# Description
 
 A practice app for the learnings from Skourse Class
 
